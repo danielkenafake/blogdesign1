@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
+	 height="256px" viewBox="0 0 512 256" enable-background="new 0 0 512 256" xml:space="preserve">
+<g id="Layer_3">
+	<path fill="#B6B6B7" d="M425.344,223.95c0,6.555-5.314,11.868-11.871,11.868H98.526c-6.554,0-11.869-5.313-11.869-11.868V25.804
+		c0-6.555,5.315-11.87,11.869-11.87h314.947c6.557,0,11.871,5.314,11.871,11.87V223.95z"/>
+	<path fill="#313133" d="M421.711,221.527c0,3.68-2.887,6.66-6.447,6.66H96.736c-3.56,0-6.447-2.98-6.447-6.66V24.439
+		c0-3.68,2.887-6.661,6.447-6.661h318.528c3.561,0,6.447,2.981,6.447,6.661V221.527z"/>
+	<g>
+		<path fill="#CECECE" d="M76.246,230.113c0-3.479,5.641-6.299,12.599-6.299h334.31c6.959,0,12.6,2.82,12.6,6.299v2.448
+			c0,3.479-5.641,6.299-12.6,6.299H88.844c-6.958,0-12.599-2.82-12.599-6.299V230.113z"/>
+		<rect x="76.246" y="223.814" fill="#DBDCDD" width="359.508" height="8.747"/>
+	</g>
+	<rect x="102.728" y="29.414" fill="#C1CAD1" width="306.545" height="180.959"/>
+</g>
+<g id="Layer_2" display="none">
+	<path display="inline" fill="#30353A" stroke="#231F20" stroke-miterlimit="10" d="M220.14,94.09c0-4.494-3.644-8.138-8.138-8.138
+		h-85.317c-4.494,0-8.138,3.644-8.138,8.138v136.632c0,4.494,3.644,8.138,8.138,8.138h85.317c4.494,0,8.138-3.644,8.138-8.138V94.09
+		z"/>
+	<rect x="125.187" y="93.509" display="inline" fill="#C1CAD1" width="87.437" height="135.244"/>
+	<circle display="inline" fill="#778693" stroke="#49393E" stroke-miterlimit="10" cx="169.344" cy="233.677" r="2.954"/>
+</g>
+<g id="Layer_1" display="none">
+	<path display="inline" fill="#30353A" stroke="#231F20" stroke-miterlimit="10" d="M83.768,232.423
+		c0,3.556-2.882,6.438-6.437,6.438H34.032c-3.555,0-6.437-2.882-6.437-6.438v-89.015c0-3.556,2.882-6.438,6.437-6.438h43.298
+		c3.555,0,6.437,2.882,6.437,6.438V232.423z"/>
+	<rect x="30.146" y="143.229" display="inline" fill="#C1CAD1" width="51.071" height="85.868"/>
+	<circle display="inline" fill="#778693" stroke="#49393E" stroke-miterlimit="10" cx="55.681" cy="233.853" r="2.854"/>
+</g>
+</svg>

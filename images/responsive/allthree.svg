@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
+	 height="256px" viewBox="0 0 512 256" enable-background="new 0 0 512 256" xml:space="preserve">
+<g id="Layer_2">
+	<path fill="#30353A" stroke="#231F20" stroke-miterlimit="10" d="M211.395,76.384c0-5.058-4.1-9.159-9.159-9.159h-96.016
+		c-5.057,0-9.158,4.101-9.158,9.159v153.768c0,5.057,4.101,9.158,9.158,9.158h96.016c5.06,0,9.159-4.102,9.159-9.158V76.384z"/>
+	<rect x="104.533" y="75.73" fill="#C1CAD1" width="98.403" height="152.205"/>
+	<path fill="#778693" stroke="#49393E" stroke-miterlimit="10" d="M157.553,233.478c0-1.838-1.487-3.327-3.324-3.327
+		c-1.837,0-3.325,1.489-3.325,3.327c0,1.834,1.488,3.324,3.325,3.324C156.065,236.802,157.553,235.312,157.553,233.478z"/>
+</g>
+<g id="Layer_5">
+	<rect x="107.861" y="96.071" fill="#525E66" width="27.67" height="5.569"/>
+	<text transform="matrix(0.989 0 0 1 119.1323 92.0767)" font-family="'Roboto-Thin'" font-size="13.9193">Responsive</text>
+	<rect x="165.713" y="154.143" fill="#525E66" width="33.282" height="39.857"/>
+	<rect x="107.862" y="104.506" fill="#525E66" width="91.133" height="46.321"/>
+	<rect x="107.858" y="198.068" fill="#525E66" width="91.139" height="2.782"/>
+	<rect x="107.858" y="202.243" fill="#525E66" width="91.139" height="2.782"/>
+	<rect x="107.86" y="206.417" fill="#525E66" width="57.853" height="2.783"/>
+	<rect x="107.862" y="210.742" fill="#525E66" width="91.139" height="2.783"/>
+	<rect x="127.571" y="214.917" fill="#525E66" width="71.426" height="2.782"/>
+	<rect x="107.861" y="219.092" fill="#525E66" width="91.139" height="2.782"/>
+	<rect x="168.675" y="206.417" fill="#525E66" width="30.321" height="2.783"/>
+	<rect x="107.862" y="214.917" fill="#525E66" width="16.808" height="2.782"/>
+	<rect x="140.68" y="96.071" fill="#525E66" width="27.995" height="5.569"/>
+	<rect x="173" y="96.071" fill="#525E66" width="25.199" height="5.569"/>
+	<rect x="107.856" y="154.123" fill="#525E66" width="55.35" height="2.782"/>
+	<rect x="107.856" y="158.298" fill="#525E66" width="55.35" height="2.782"/>
+	<rect x="107.857" y="162.472" fill="#525E66" width="35.135" height="2.783"/>
+	<rect x="107.858" y="166.797" fill="#525E66" width="55.35" height="2.783"/>
+	<rect x="119.828" y="170.972" fill="#525E66" width="43.378" height="2.782"/>
+	<rect x="107.858" y="175.146" fill="#525E66" width="55.35" height="2.782"/>
+	<rect x="144.791" y="162.472" fill="#525E66" width="18.415" height="2.783"/>
+	<rect x="107.858" y="170.972" fill="#525E66" width="10.208" height="2.782"/>
+	<rect x="107.857" y="180.448" fill="#525E66" width="55.35" height="2.782"/>
+	<rect x="107.857" y="184.623" fill="#525E66" width="55.35" height="2.782"/>
+	<rect x="107.858" y="188.797" fill="#525E66" width="35.135" height="2.783"/>
+	<rect x="107.859" y="193.122" fill="#525E66" width="55.35" height="2.783"/>
+	<rect x="144.792" y="188.797" fill="#525E66" width="18.414" height="2.783"/>
+</g>
+<g id="Layer_3">
+	<path fill="#B6B6B7" d="M492.776,227.434c0,5.023-4.073,9.096-9.098,9.096H242.32c-5.022,0-9.096-4.072-9.096-9.096V75.585
+		c0-5.023,4.073-9.096,9.096-9.096h241.359c5.024,0,9.098,4.073,9.098,9.096V227.434z"/>
+	<path fill="#313133" d="M489.992,225.577c0,2.82-2.212,5.104-4.941,5.104H240.948c-2.728,0-4.941-2.284-4.941-5.104V74.539
+		c0-2.82,2.213-5.104,4.941-5.104h244.103c2.729,0,4.941,2.285,4.941,5.104V225.577z"/>
+	<g>
+		<path fill="#CECECE" d="M225.246,232.157c0-2.666,4.323-4.827,9.655-4.827h256.198c5.333,0,9.655,2.161,9.655,4.827v1.876
+			c0,2.666-4.322,4.827-9.655,4.827H234.9c-5.332,0-9.655-2.161-9.655-4.827V232.157z"/>
+		<rect x="225.246" y="227.33" fill="#DBDCDD" width="275.508" height="6.703"/>
+	</g>
+	<rect x="245.54" y="78.352" fill="#C1CAD1" width="234.92" height="138.678"/>
+</g>
+<g id="Layer_6">
+	<text transform="matrix(0.989 0 0 1 256.9824 101.6401)" fill="#525E66" font-family="'Roboto-Bold'" font-size="25.2446">Responsive</text>
+	<rect x="257.828" y="108.333" fill="#525E66" width="206.97" height="46.321"/>
+	<rect x="257.823" y="159.902" fill="#525E66" width="136.682" height="2.781"/>
+	<rect x="257.823" y="164.076" fill="#525E66" width="136.682" height="2.783"/>
+	<rect x="257.824" y="168.25" fill="#525E66" width="86.765" height="2.783"/>
+	<rect x="257.829" y="172.576" fill="#525E66" width="136.682" height="2.783"/>
+	<rect x="287.388" y="176.75" fill="#525E66" width="107.118" height="2.783"/>
+	<rect x="257.828" y="180.926" fill="#525E66" width="136.682" height="2.781"/>
+	<rect x="349.03" y="168.25" fill="#525E66" width="45.474" height="2.783"/>
+	<rect x="257.829" y="176.75" fill="#525E66" width="25.207" height="2.783"/>
+	<rect x="404.205" y="96.071" fill="#525E66" width="16.812" height="5.569"/>
+	<rect x="424.973" y="96.071" fill="#525E66" width="16.811" height="5.569"/>
+	<rect x="446.704" y="96.071" fill="#525E66" width="16.812" height="5.569"/>
+	<rect x="402.916" y="159.887" fill="#525E66" width="61.891" height="23.82"/>
+	<rect x="257.839" y="187.557" fill="#525E66" width="136.659" height="2.781"/>
+	<rect x="257.839" y="191.73" fill="#525E66" width="136.659" height="2.783"/>
+	<rect x="307.746" y="195.904" fill="#525E66" width="86.749" height="2.783"/>
+	<rect x="257.834" y="200.23" fill="#525E66" width="136.658" height="2.783"/>
+	<rect x="257.837" y="204.404" fill="#525E66" width="107.102" height="2.783"/>
+	<rect x="257.834" y="208.58" fill="#525E66" width="136.658" height="2.781"/>
+	<rect x="257.839" y="195.904" fill="#525E66" width="45.468" height="2.783"/>
+	<rect x="369.289" y="204.404" fill="#525E66" width="25.203" height="2.783"/>
+	<rect x="402.923" y="186.785" fill="#525E66" width="61.881" height="2.781"/>
+	<rect x="402.923" y="190.959" fill="#525E66" width="61.881" height="2.783"/>
+	<rect x="425.521" y="195.133" fill="#525E66" width="39.28" height="2.783"/>
+	<rect x="402.92" y="199.459" fill="#525E66" width="61.881" height="2.783"/>
+	<rect x="402.922" y="203.633" fill="#525E66" width="48.497" height="2.783"/>
+	<rect x="402.92" y="207.809" fill="#525E66" width="61.881" height="2.781"/>
+	<rect x="402.923" y="195.133" fill="#525E66" width="20.588" height="2.783"/>
+	<rect x="453.388" y="203.633" fill="#525E66" width="11.413" height="2.783"/>
+</g>
+<g id="Layer_1">
+	<path fill="#30353A" stroke="#231F20" stroke-miterlimit="10" d="M84.479,230.668c0,4.523-3.666,8.191-8.191,8.191H21.196
+		c-4.524,0-8.191-3.668-8.191-8.191V117.403c0-4.524,3.667-8.191,8.191-8.191h55.092c4.525,0,8.191,3.667,8.191,8.191V230.668z"/>
+	<rect x="16.25" y="117.174" fill="#C1CAD1" width="64.982" height="109.261"/>
+	<circle fill="#778693" stroke="#49393E" stroke-miterlimit="10" cx="48.742" cy="232.486" r="3.632"/>
+</g>
+<g id="Layer_4">
+	<rect x="21.817" y="131.494" fill="#525E66" width="53.85" height="8.001"/>
+	<rect x="21.817" y="143.496" fill="#525E66" width="53.85" height="8.002"/>
+	<rect x="21.816" y="155.886" fill="#525E66" width="53.85" height="8.002"/>
+	<text transform="matrix(1 0 0 1 23.8276 127.6665)" font-family="'Roboto-Thin'" font-size="10">Responsive</text>
+	<rect x="21.817" y="167.889" fill="#525E66" width="23.292" height="33.278"/>
+	<rect x="52.373" y="167.889" fill="#525E66" width="23.292" height="33.278"/>
+	<rect x="21.816" y="204.771" fill="#525E66" width="53.85" height="1.999"/>
+	<rect x="21.816" y="207.771" fill="#525E66" width="53.85" height="1.999"/>
+	<rect x="21.817" y="210.77" fill="#525E66" width="34.183" height="1.999"/>
+	<rect x="21.819" y="213.877" fill="#525E66" width="53.85" height="1.999"/>
+	<rect x="33.464" y="216.876" fill="#525E66" width="42.203" height="1.999"/>
+	<rect x="21.818" y="219.875" fill="#525E66" width="53.85" height="1.999"/>
+	<rect x="57.75" y="210.77" fill="#525E66" width="17.916" height="1.999"/>
+	<rect x="21.819" y="216.876" fill="#525E66" width="9.931" height="1.999"/>
+</g>
+</svg>

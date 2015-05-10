@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#E2E2E2" d="M156.986,7.3h197.484c11.854,0,14.136,9.011,6.24,18.717
+	c-7.231,8.891-19.618,14.509-28.44,14.509H179.187c-8.824,0-21.21-5.619-28.441-14.509C142.85,16.311,145.131,7.3,156.986,7.3z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#DDDDDD" d="M177.608,40.527h156.535v29.535H177.608V40.527z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#DDDDDD" d="M175.402,66.642h160.239c31.234,0,58.875,18.251,61.848,41.636
+	l40.913,321.888c5.181,40.759-26.059,75.534-70.047,75.534H142.688c-43.988,0-75.227-34.775-70.046-75.534l40.914-321.888
+	C116.527,84.893,144.168,66.642,175.402,66.642z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#D8D6D6" d="M182.139,79.187h147.833c28.816,0,54.317,17.208,57.06,39.256
+	l37.746,303.494c4.779,38.43-24.042,71.219-64.624,71.219H151.958c-40.583,0-69.404-32.789-64.624-71.219l37.746-303.494
+	C127.822,96.395,153.322,79.187,182.139,79.187z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#527F4F" d="M405.764,265.729c0,0-63.767,14.3-119.615,0
+	c-55.849-14.3-121.093,2.215-121.093,2.215s-52.664,5.223-58.332-2.215c-4.867,33.722-19.197,158.011-19.197,158.011
+	s-13.435,69.407,60.546,69.407c73.981,0,216.342,0,216.342,0s69.499,3.863,60.547-66.453
+	C415.7,353.95,405.764,265.729,405.764,265.729z"> <animateColor
+	    attributeName="fill"  
+	    begin="1s"  
+	    dur="10s"  
+	    values ="#527F4F; #377766; #527F4F"
+	    repeatCount="indefinite"   
+	    /> 
+</path>	
+<g>                 
+    <circle cx="350" cy="435" r="200" fill="#758E6F" linejoin="round" fill-opacity="0.9">
+        <animate attributeType="xml" attributeName="r" values="15;17;15" dur="5s" repeatCount="indefinite" />    
+    </circle>
+</g>	
+<g>                 
+    <circle cx="250" cy="400" r="200" fill="#758E6F" linejoin="round" fill-opacity="0.9">
+        <animate attributeType="xml" attributeName="r" values="17;10;17" dur="9s" repeatCount="indefinite" />    
+    </circle>
+</g>	
+<g>                 
+    <circle cx="350" cy="300" r="200" fill="#758E6F" linejoin="round" fill-opacity="0.9">
+        <animate attributeType="xml" attributeName="r" values="20;15;20" dur="4s" repeatCount="indefinite" />    
+    </circle>
+</g>
+<g>                 
+    <circle cx="160" cy="460" r="200" fill="#758E6F" linejoin="round" fill-opacity="0.9">
+        <animate attributeType="xml" attributeName="r" values="5;10;5" dur="4s" repeatCount="indefinite" />    
+    </circle>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#758E6F" d="M158.41,303.387c10.195,0,18.459,8.265,18.459,18.459
+	s-8.265,18.459-18.459,18.459s-18.459-8.265-18.459-18.459S148.215,303.387,158.41,303.387z"/>
+</svg>
